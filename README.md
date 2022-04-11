@@ -31,7 +31,7 @@ Many people struggle to find new music that they enjoy, especially on a platform
 
 # Data Description
 
-(Full details of songs data can be found in `data_analysis_plan.ipynb`, a summary of the relevant details is given here).
+(Full details of songs data and some cool visualizations can be found in `pipeline_and_visualizations.ipynb`, a summary of the relevant details is given here).
 
 Our data is collected from each user's public playlists via the Spotify API, and the audio features are produced by Spotify. The audio features are used for our embedding space in which songs and queries exist as vectors.
 
